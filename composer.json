@@ -1,0 +1,22 @@
+{
+  "type": "library",
+  "name": "longcz/awpaysdk",
+  "homepage": "https://github.com/longcz/awpaysdk",
+  "description": "AliPay and WeChatPay Integrate SDK",
+  "license": "MIT",
+  "keywords": [
+    "awpaysdk",
+    "alipay",
+    "wxpay"
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "ext-curl": "*",
+    "ext-openssl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pay\\": "./src"
+    }
+  }
+}
