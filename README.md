@@ -150,4 +150,4 @@ echo '<xml><return_code>SUCCESS</return_code><return_msg>OK</return_msg></xml>';
 
 
 #### 2019年10月11日
-- 正式发布
+- 正式发布（引用zoujingli/pay-php-sdk修改）
